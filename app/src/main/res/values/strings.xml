@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ParoljaNet</string>
+    <string name="app_bar_title">ПАРОЛЯ.НЕТ</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_developers">DevelopersActivity</string>
+    <string name="link_to_parolja_net">http://www.parolja.net</string>
+    <string name="link_to_hilk_studio">http://vk.com/hilk_studio</string>
+    <string name="footer_for_dev_activity">Copyright © 2016&#8211;2017 PAROLJA.NET</string>
+    <string name="title_activity_show_logins">ShowLoginsActivity</string>
+    <string name="title_activity_add_login">AddLoginActivity</string>
+</resources>

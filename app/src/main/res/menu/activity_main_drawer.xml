@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_share"
+            android:checkable="false"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Рассказать друзьям" />
+        <item
+            android:id="@+id/nav_rate"
+            android:checkable="false"
+            android:icon="@drawable/ic_menu_star"
+            android:title="Оценить приложение" />
+        <item
+            android:id="@+id/nav_help_developers"
+            android:checkable="false"
+            android:icon="@drawable/ic_menu_money"
+            android:title="Помочь проекту" />
+        <item
+            android:id="@+id/nav_developers"
+            android:checkable="false"
+            android:icon="@drawable/ic_menu_info"
+            android:title="Разработчики" />
+    </group>
+
+</menu>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#182129</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="mainBackground">#272E38</color>
+    <color name="listItemBackground">#38404a</color>
+
+    <color name="textMain1">#767c83</color>
+
+    <color name="buttonNormal">#182129</color>
+    <color name="buttonPressed">#ffffff</color>
+    <color name="buttonTextNormal">#ffffff</color>
+    <color name="buttonTextPressed">#182129</color>
+
+    <color name="buttonYesNormal">#09a16a</color>
+    <color name="buttonYesPressed">#ffffff</color>
+    <color name="buttonYesTextNormal">#ffffff</color>
+    <color name="buttonYesTextPressed">#09a16a</color>
+
+    <color name="buttonNoNormal">#af483e</color>
+    <color name="buttonNoPressed">#ffffff</color>
+    <color name="buttonNoTextNormal">#ffffff</color>
+    <color name="buttonNoTextPressed">#af483e</color>
+
+    <color name="editTextBackgroundAddLogin">#1e2129</color>
+    <color name="editTextBackgroundShowLogins">#1e2129</color>
+
+    <color name="colorGreenLine">#09a16a</color>
+
+    <color name="colorGreenText">#09a16a</color>
+    <color name="colorRedText">#af483e</color>
+
+    <color name="colorSnackbarBackground">#a8000000</color>
+
+</resources>
